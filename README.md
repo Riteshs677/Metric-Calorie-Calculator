@@ -82,3 +82,9 @@ metric-calorie-calculator/
 ## License
 
 This project is open source and available under the MIT License.
+
+## Interface
+static/Interface.png
+
+# Results
+static/Results.png
