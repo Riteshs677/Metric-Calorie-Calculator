@@ -84,7 +84,7 @@ metric-calorie-calculator/
 This project is open source and available under the MIT License.
 
 ## Interface
-static/Interface.png
+<img width="530" height="500" alt="Interface" src="https://github.com/user-attachments/assets/0375081e-e2bf-4395-b6e1-eabbd81e2514" />
 
 # Results
-static/Results.png
+<img width="951" height="567" alt="Results" src="https://github.com/user-attachments/assets/398b5ec0-3985-4620-85b4-eb8078ced4ee" />
